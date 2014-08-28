@@ -13,4 +13,5 @@ print "'uno' in eng2sp", 'uno' in eng2sp
 vals = eng2sp.values()
 print "'uno' in vals", 'uno' in vals
 
+print eng2sp.keys()
     
