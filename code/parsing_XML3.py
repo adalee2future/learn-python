@@ -1,6 +1,6 @@
 from xml.dom import minidom
 
-f = open('pets.txt', 'r')
+f = open('pets_xml.txt', 'r')
 pets = minidom.parseString(f.read())
 f.close()
 
