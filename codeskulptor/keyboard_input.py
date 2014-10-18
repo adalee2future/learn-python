@@ -14,7 +14,7 @@ def keyup(key):
     global current_key
     current_key = ' '
 
-def draw(cnavas):
+def draw(canvas):
     canvas.draw_text(current_key, [10, 25], 20, "Red")
     
 # create frame
