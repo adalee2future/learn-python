@@ -19,3 +19,6 @@ class Employee(object):
 ada = Employee("Ada Lee")
 print type(ada)
 print dir(ada)
+
+import math
+print dir(math)
