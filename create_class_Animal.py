@@ -6,7 +6,7 @@ class Animal(object):
         self.age = age
 	def description(self):
         print self.name
-        print self. age
+        print self.age
 
 zebra = Animal("Jeffrey", 2)
 giraffe = Animal("Bruce", 1)
