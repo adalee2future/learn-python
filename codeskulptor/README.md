@@ -1,4 +1,4 @@
 codeskulptor
 ===========
 
-Some code about the course An Introduction to Interactive Programming in Python @ https://www.coursera.org/course/interactivepython. These code run in http://www.codeskulptor.org/
+My code note in [Coursera](https://class.coursera.org) Specilization [Fundamentals of Computing](https://www.coursera.org/specialization/fundamentalscomputing2/37?utm_source=spark&utm_medium=banner). These code run in http://www.codeskulptor.org/.
